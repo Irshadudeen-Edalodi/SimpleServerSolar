@@ -1,0 +1,5 @@
+com\irshad\SimpleHttpServer$StructuralPermitRequestHandler.class
+com\irshad\SimpleHttpServer$ElectricPermitRequestHandler.class
+com\irshad\SimpleHttpServer$ElectricStatusRequestHandler.class
+com\irshad\SimpleHttpServer$StructuralStatusRequestHandler.class
+com\irshad\SimpleHttpServer.class
